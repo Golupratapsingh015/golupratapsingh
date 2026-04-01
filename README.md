@@ -42,7 +42,7 @@
 |------|-------|
 | Linux | ✅ Done |
 | Git & GitHub | ✅ Done |
-| Docker | 🔄 In Progress |
+| Docker | ✅ In Progress |
 | Kubernetes | 🔄 In Progress |
 | CI/CD | 🔄 In Progress |
 | AWS | 🔄 In Progress |
