@@ -19,7 +19,7 @@
 
 ### 💻 Languages & Frameworks  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,angular,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,angular,tailwind,react,python" />
 </p>
 
 ### ☁️ Cloud & DevOps  
@@ -29,7 +29,10 @@
 
 ### 🗄️ Databases & Monitoring  
 <p align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana,elasticsearch,mysql" />
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="48" />
+</p>
 </p>
 
 ---
