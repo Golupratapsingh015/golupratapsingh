@@ -5,9 +5,9 @@
 </p>
 
 ---
+## 🚀 About Me
 🚀 Passionate about DevOps, cloud technologies, and automation, with a strong focus on Azure, AWS, and CI/CD pipelines. Currently working as an ASP.NET Core MVC developer, building scalable web applications while actively transitioning into modern DevOps practices to deliver faster, reliable, and efficient solutions.
 
-## 🚀 About Me
 - 🔭 Working on DevOps & Cloud Projects  
 - 🌱 Learning Docker, Kubernetes, AWS, Azure  
 - ⚡ Focused on CI/CD & Automation  
