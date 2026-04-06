@@ -15,9 +15,21 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
+
+### 💻 Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,linux,git,github,terraform" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css" />
+</p>
+
+### ☁️ Cloud & DevOps  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git,github,terraform,ansible,linux" />
+</p>
+
+### 🗄️ Databases & Monitoring  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana,elasticsearch,mysql" />
 </p>
 
 ---
