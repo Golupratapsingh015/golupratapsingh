@@ -35,7 +35,11 @@
 </p>
 
 ---
-
+<h2>📈 Activity Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Golupratapsingh015&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
+</p>
+---
 ## 🧭 DevOps Roadmap Progress
 
 | Skill | Status |
