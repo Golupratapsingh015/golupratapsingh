@@ -19,7 +19,7 @@
 
 ### 💻 Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,angular,tailwind,react" />
 </p>
 
 ### ☁️ Cloud & DevOps  
